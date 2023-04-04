@@ -31,7 +31,7 @@
         <inputAssignments>
             <field>NameCopy__c</field>
             <value>
-                <elementReference>$Record.Name</elementReference>
+                <elementReference>$Record.Id</elementReference>
             </value>
         </inputAssignments>
         <inputReference>$Record</inputReference>
